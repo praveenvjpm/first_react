@@ -24,3 +24,10 @@
 a{
   text-decoration: none;
 }
+
+
+h1{
+  font-family: 'NTR', sans-serif;
+  font-size: 50px;
+  color: #09d3ac;
+}
